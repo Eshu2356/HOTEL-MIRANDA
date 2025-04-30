@@ -1,2 +1,2 @@
-# HOTEL-MIRANDA
-Hotel Miranda is a hotel management web application designed to streamline bookings, manage rooms, and enhance guest experience with a clean and modern interface
+# Hotel_Miranda_16-10-23
+Learn how to create a stunning hotel booking website from scratch using HTML, CSS, and JavaScript in this comprehensive tutorial.
